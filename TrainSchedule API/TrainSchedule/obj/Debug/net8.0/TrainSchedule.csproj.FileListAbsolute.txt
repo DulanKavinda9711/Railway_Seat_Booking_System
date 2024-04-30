@@ -1,0 +1,278 @@
+E:\ICBT SE\TrainBooking\TrainSchedule\TrainSchedule\bin\Debug\net8.0\appsettings.Development.json
+E:\ICBT SE\TrainBooking\TrainSchedule\TrainSchedule\bin\Debug\net8.0\appsettings.json
+E:\ICBT SE\TrainBooking\TrainSchedule\TrainSchedule\bin\Debug\net8.0\TrainSchedule.exe
+E:\ICBT SE\TrainBooking\TrainSchedule\TrainSchedule\bin\Debug\net8.0\TrainSchedule.deps.json
+E:\ICBT SE\TrainBooking\TrainSchedule\TrainSchedule\bin\Debug\net8.0\TrainSchedule.runtimeconfig.json
+E:\ICBT SE\TrainBooking\TrainSchedule\TrainSchedule\bin\Debug\net8.0\TrainSchedule.dll
+E:\ICBT SE\TrainBooking\TrainSchedule\TrainSchedule\bin\Debug\net8.0\TrainSchedule.pdb
+E:\ICBT SE\TrainBooking\TrainSchedule\TrainSchedule\bin\Debug\net8.0\AutoMapper.dll
+E:\ICBT SE\TrainBooking\TrainSchedule\TrainSchedule\bin\Debug\net8.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+E:\ICBT SE\TrainBooking\TrainSchedule\TrainSchedule\bin\Debug\net8.0\Azure.Core.dll
+E:\ICBT SE\TrainBooking\TrainSchedule\TrainSchedule\bin\Debug\net8.0\Azure.Identity.dll
+E:\ICBT SE\TrainBooking\TrainSchedule\TrainSchedule\bin\Debug\net8.0\Humanizer.dll
+E:\ICBT SE\TrainBooking\TrainSchedule\TrainSchedule\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\ICBT SE\TrainBooking\TrainSchedule\TrainSchedule\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+E:\ICBT SE\TrainBooking\TrainSchedule\TrainSchedule\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\ICBT SE\TrainBooking\TrainSchedule\TrainSchedule\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\ICBT SE\TrainBooking\TrainSchedule\TrainSchedule\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\ICBT SE\TrainBooking\TrainSchedule\TrainSchedule\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+E:\ICBT SE\TrainBooking\TrainSchedule\TrainSchedule\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+E:\ICBT SE\TrainBooking\TrainSchedule\TrainSchedule\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\ICBT SE\TrainBooking\TrainSchedule\TrainSchedule\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\ICBT SE\TrainBooking\TrainSchedule\TrainSchedule\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\ICBT SE\TrainBooking\TrainSchedule\TrainSchedule\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\ICBT SE\TrainBooking\TrainSchedule\TrainSchedule\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+E:\ICBT SE\TrainBooking\TrainSchedule\TrainSchedule\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+E:\ICBT SE\TrainBooking\TrainSchedule\TrainSchedule\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\ICBT SE\TrainBooking\TrainSchedule\TrainSchedule\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+E:\ICBT SE\TrainBooking\TrainSchedule\TrainSchedule\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\ICBT SE\TrainBooking\TrainSchedule\TrainSchedule\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+E:\ICBT SE\TrainBooking\TrainSchedule\TrainSchedule\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+E:\ICBT SE\TrainBooking\TrainSchedule\TrainSchedule\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\ICBT SE\TrainBooking\TrainSchedule\TrainSchedule\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+E:\ICBT SE\TrainBooking\TrainSchedule\TrainSchedule\bin\Debug\net8.0\Microsoft.OpenApi.dll
+E:\ICBT SE\TrainBooking\TrainSchedule\TrainSchedule\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+E:\ICBT SE\TrainBooking\TrainSchedule\TrainSchedule\bin\Debug\net8.0\Mono.TextTemplating.dll
+E:\ICBT SE\TrainBooking\TrainSchedule\TrainSchedule\bin\Debug\net8.0\Newtonsoft.Json.dll
+E:\ICBT SE\TrainBooking\TrainSchedule\TrainSchedule\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\ICBT SE\TrainBooking\TrainSchedule\TrainSchedule\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\ICBT SE\TrainBooking\TrainSchedule\TrainSchedule\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\ICBT SE\TrainBooking\TrainSchedule\TrainSchedule\bin\Debug\net8.0\System.CodeDom.dll
+E:\ICBT SE\TrainBooking\TrainSchedule\TrainSchedule\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+E:\ICBT SE\TrainBooking\TrainSchedule\TrainSchedule\bin\Debug\net8.0\System.Composition.Convention.dll
+E:\ICBT SE\TrainBooking\TrainSchedule\TrainSchedule\bin\Debug\net8.0\System.Composition.Hosting.dll
+E:\ICBT SE\TrainBooking\TrainSchedule\TrainSchedule\bin\Debug\net8.0\System.Composition.Runtime.dll
+E:\ICBT SE\TrainBooking\TrainSchedule\TrainSchedule\bin\Debug\net8.0\System.Composition.TypedParts.dll
+E:\ICBT SE\TrainBooking\TrainSchedule\TrainSchedule\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+E:\ICBT SE\TrainBooking\TrainSchedule\TrainSchedule\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+E:\ICBT SE\TrainBooking\TrainSchedule\TrainSchedule\bin\Debug\net8.0\System.Memory.Data.dll
+E:\ICBT SE\TrainBooking\TrainSchedule\TrainSchedule\bin\Debug\net8.0\System.Runtime.Caching.dll
+E:\ICBT SE\TrainBooking\TrainSchedule\TrainSchedule\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+E:\ICBT SE\TrainBooking\TrainSchedule\TrainSchedule\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\ICBT SE\TrainBooking\TrainSchedule\TrainSchedule\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\ICBT SE\TrainBooking\TrainSchedule\TrainSchedule\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\ICBT SE\TrainBooking\TrainSchedule\TrainSchedule\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\ICBT SE\TrainBooking\TrainSchedule\TrainSchedule\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\ICBT SE\TrainBooking\TrainSchedule\TrainSchedule\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\ICBT SE\TrainBooking\TrainSchedule\TrainSchedule\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\ICBT SE\TrainBooking\TrainSchedule\TrainSchedule\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\ICBT SE\TrainBooking\TrainSchedule\TrainSchedule\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\ICBT SE\TrainBooking\TrainSchedule\TrainSchedule\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\ICBT SE\TrainBooking\TrainSchedule\TrainSchedule\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\ICBT SE\TrainBooking\TrainSchedule\TrainSchedule\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\ICBT SE\TrainBooking\TrainSchedule\TrainSchedule\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\ICBT SE\TrainBooking\TrainSchedule\TrainSchedule\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ICBT SE\TrainBooking\TrainSchedule\TrainSchedule\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ICBT SE\TrainBooking\TrainSchedule\TrainSchedule\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ICBT SE\TrainBooking\TrainSchedule\TrainSchedule\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ICBT SE\TrainBooking\TrainSchedule\TrainSchedule\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ICBT SE\TrainBooking\TrainSchedule\TrainSchedule\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ICBT SE\TrainBooking\TrainSchedule\TrainSchedule\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ICBT SE\TrainBooking\TrainSchedule\TrainSchedule\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ICBT SE\TrainBooking\TrainSchedule\TrainSchedule\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ICBT SE\TrainBooking\TrainSchedule\TrainSchedule\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ICBT SE\TrainBooking\TrainSchedule\TrainSchedule\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ICBT SE\TrainBooking\TrainSchedule\TrainSchedule\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ICBT SE\TrainBooking\TrainSchedule\TrainSchedule\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ICBT SE\TrainBooking\TrainSchedule\TrainSchedule\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ICBT SE\TrainBooking\TrainSchedule\TrainSchedule\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ICBT SE\TrainBooking\TrainSchedule\TrainSchedule\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ICBT SE\TrainBooking\TrainSchedule\TrainSchedule\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ICBT SE\TrainBooking\TrainSchedule\TrainSchedule\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ICBT SE\TrainBooking\TrainSchedule\TrainSchedule\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ICBT SE\TrainBooking\TrainSchedule\TrainSchedule\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ICBT SE\TrainBooking\TrainSchedule\TrainSchedule\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ICBT SE\TrainBooking\TrainSchedule\TrainSchedule\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ICBT SE\TrainBooking\TrainSchedule\TrainSchedule\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ICBT SE\TrainBooking\TrainSchedule\TrainSchedule\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ICBT SE\TrainBooking\TrainSchedule\TrainSchedule\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ICBT SE\TrainBooking\TrainSchedule\TrainSchedule\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ICBT SE\TrainBooking\TrainSchedule\TrainSchedule\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ICBT SE\TrainBooking\TrainSchedule\TrainSchedule\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ICBT SE\TrainBooking\TrainSchedule\TrainSchedule\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ICBT SE\TrainBooking\TrainSchedule\TrainSchedule\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ICBT SE\TrainBooking\TrainSchedule\TrainSchedule\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ICBT SE\TrainBooking\TrainSchedule\TrainSchedule\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ICBT SE\TrainBooking\TrainSchedule\TrainSchedule\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ICBT SE\TrainBooking\TrainSchedule\TrainSchedule\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ICBT SE\TrainBooking\TrainSchedule\TrainSchedule\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ICBT SE\TrainBooking\TrainSchedule\TrainSchedule\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ICBT SE\TrainBooking\TrainSchedule\TrainSchedule\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ICBT SE\TrainBooking\TrainSchedule\TrainSchedule\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ICBT SE\TrainBooking\TrainSchedule\TrainSchedule\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ICBT SE\TrainBooking\TrainSchedule\TrainSchedule\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ICBT SE\TrainBooking\TrainSchedule\TrainSchedule\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ICBT SE\TrainBooking\TrainSchedule\TrainSchedule\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ICBT SE\TrainBooking\TrainSchedule\TrainSchedule\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ICBT SE\TrainBooking\TrainSchedule\TrainSchedule\obj\Debug\net8.0\TrainSchedule.csproj.AssemblyReference.cache
+E:\ICBT SE\TrainBooking\TrainSchedule\TrainSchedule\obj\Debug\net8.0\TrainSchedule.GeneratedMSBuildEditorConfig.editorconfig
+E:\ICBT SE\TrainBooking\TrainSchedule\TrainSchedule\obj\Debug\net8.0\TrainSchedule.AssemblyInfoInputs.cache
+E:\ICBT SE\TrainBooking\TrainSchedule\TrainSchedule\obj\Debug\net8.0\TrainSchedule.AssemblyInfo.cs
+E:\ICBT SE\TrainBooking\TrainSchedule\TrainSchedule\obj\Debug\net8.0\TrainSchedule.csproj.CoreCompileInputs.cache
+E:\ICBT SE\TrainBooking\TrainSchedule\TrainSchedule\obj\Debug\net8.0\TrainSchedule.MvcApplicationPartsAssemblyInfo.cs
+E:\ICBT SE\TrainBooking\TrainSchedule\TrainSchedule\obj\Debug\net8.0\TrainSchedule.MvcApplicationPartsAssemblyInfo.cache
+E:\ICBT SE\TrainBooking\TrainSchedule\TrainSchedule\obj\Debug\net8.0\staticwebassets.build.json
+E:\ICBT SE\TrainBooking\TrainSchedule\TrainSchedule\obj\Debug\net8.0\staticwebassets.development.json
+E:\ICBT SE\TrainBooking\TrainSchedule\TrainSchedule\obj\Debug\net8.0\staticwebassets\msbuild.TrainSchedule.Microsoft.AspNetCore.StaticWebAssets.props
+E:\ICBT SE\TrainBooking\TrainSchedule\TrainSchedule\obj\Debug\net8.0\staticwebassets\msbuild.build.TrainSchedule.props
+E:\ICBT SE\TrainBooking\TrainSchedule\TrainSchedule\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.TrainSchedule.props
+E:\ICBT SE\TrainBooking\TrainSchedule\TrainSchedule\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.TrainSchedule.props
+E:\ICBT SE\TrainBooking\TrainSchedule\TrainSchedule\obj\Debug\net8.0\staticwebassets.pack.json
+E:\ICBT SE\TrainBooking\TrainSchedule\TrainSchedule\obj\Debug\net8.0\scopedcss\bundle\TrainSchedule.styles.css
+E:\ICBT SE\TrainBooking\TrainSchedule\TrainSchedule\obj\Debug\net8.0\TrainSch.9A607375.Up2Date
+E:\ICBT SE\TrainBooking\TrainSchedule\TrainSchedule\obj\Debug\net8.0\TrainSchedule.dll
+E:\ICBT SE\TrainBooking\TrainSchedule\TrainSchedule\obj\Debug\net8.0\refint\TrainSchedule.dll
+E:\ICBT SE\TrainBooking\TrainSchedule\TrainSchedule\obj\Debug\net8.0\TrainSchedule.pdb
+E:\ICBT SE\TrainBooking\TrainSchedule\TrainSchedule\obj\Debug\net8.0\TrainSchedule.genruntimeconfig.cache
+E:\ICBT SE\TrainBooking\TrainSchedule\TrainSchedule\obj\Debug\net8.0\ref\TrainSchedule.dll
+E:\ICBT SE\TrainBooking\TrainSchedule\TrainSchedule\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+E:\ICBT SE\TrainBooking\TrainSchedule\TrainSchedule\bin\Debug\net8.0\System.Drawing.Common.dll
+E:\ICBT SE\TrainBooking\TrainSchedule\TrainSchedule\bin\Debug\net8.0\System.Security.Permissions.dll
+E:\ICBT SE\TrainBooking\TrainSchedule\TrainSchedule\bin\Debug\net8.0\System.Windows.Extensions.dll
+E:\ICBT SE\TrainBooking\TrainSchedule\TrainSchedule\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\ICBT SE\TrainBooking\TrainSchedule\TrainSchedule\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\ICBT SE\TrainBooking\TrainSchedule\TrainSchedule\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\ICBT SE\TrainBooking\TrainSchedule\TrainSchedule\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\ICBT SE\TrainBooking\TrainSchedule\TrainSchedule\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\ICBT SE\TrainBooking\TrainSchedule\TrainSchedule\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\ICBT SE\TrainBooking\TrainSchedule\TrainSchedule\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\ICBT SE\TrainBooking\TrainSchedule\TrainSchedule\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\ICBT SE\Train Schedule and Seat Booking Manage System\TrainSchedule API\TrainSchedule\bin\Debug\net8.0\appsettings.Development.json
+E:\ICBT SE\Train Schedule and Seat Booking Manage System\TrainSchedule API\TrainSchedule\bin\Debug\net8.0\appsettings.json
+E:\ICBT SE\Train Schedule and Seat Booking Manage System\TrainSchedule API\TrainSchedule\bin\Debug\net8.0\TrainSchedule.exe
+E:\ICBT SE\Train Schedule and Seat Booking Manage System\TrainSchedule API\TrainSchedule\bin\Debug\net8.0\TrainSchedule.deps.json
+E:\ICBT SE\Train Schedule and Seat Booking Manage System\TrainSchedule API\TrainSchedule\bin\Debug\net8.0\TrainSchedule.runtimeconfig.json
+E:\ICBT SE\Train Schedule and Seat Booking Manage System\TrainSchedule API\TrainSchedule\bin\Debug\net8.0\TrainSchedule.dll
+E:\ICBT SE\Train Schedule and Seat Booking Manage System\TrainSchedule API\TrainSchedule\bin\Debug\net8.0\TrainSchedule.pdb
+E:\ICBT SE\Train Schedule and Seat Booking Manage System\TrainSchedule API\TrainSchedule\bin\Debug\net8.0\AutoMapper.dll
+E:\ICBT SE\Train Schedule and Seat Booking Manage System\TrainSchedule API\TrainSchedule\bin\Debug\net8.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+E:\ICBT SE\Train Schedule and Seat Booking Manage System\TrainSchedule API\TrainSchedule\bin\Debug\net8.0\Azure.Core.dll
+E:\ICBT SE\Train Schedule and Seat Booking Manage System\TrainSchedule API\TrainSchedule\bin\Debug\net8.0\Azure.Identity.dll
+E:\ICBT SE\Train Schedule and Seat Booking Manage System\TrainSchedule API\TrainSchedule\bin\Debug\net8.0\Humanizer.dll
+E:\ICBT SE\Train Schedule and Seat Booking Manage System\TrainSchedule API\TrainSchedule\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\ICBT SE\Train Schedule and Seat Booking Manage System\TrainSchedule API\TrainSchedule\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+E:\ICBT SE\Train Schedule and Seat Booking Manage System\TrainSchedule API\TrainSchedule\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\ICBT SE\Train Schedule and Seat Booking Manage System\TrainSchedule API\TrainSchedule\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\ICBT SE\Train Schedule and Seat Booking Manage System\TrainSchedule API\TrainSchedule\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\ICBT SE\Train Schedule and Seat Booking Manage System\TrainSchedule API\TrainSchedule\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+E:\ICBT SE\Train Schedule and Seat Booking Manage System\TrainSchedule API\TrainSchedule\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+E:\ICBT SE\Train Schedule and Seat Booking Manage System\TrainSchedule API\TrainSchedule\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\ICBT SE\Train Schedule and Seat Booking Manage System\TrainSchedule API\TrainSchedule\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\ICBT SE\Train Schedule and Seat Booking Manage System\TrainSchedule API\TrainSchedule\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\ICBT SE\Train Schedule and Seat Booking Manage System\TrainSchedule API\TrainSchedule\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\ICBT SE\Train Schedule and Seat Booking Manage System\TrainSchedule API\TrainSchedule\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+E:\ICBT SE\Train Schedule and Seat Booking Manage System\TrainSchedule API\TrainSchedule\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+E:\ICBT SE\Train Schedule and Seat Booking Manage System\TrainSchedule API\TrainSchedule\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\ICBT SE\Train Schedule and Seat Booking Manage System\TrainSchedule API\TrainSchedule\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+E:\ICBT SE\Train Schedule and Seat Booking Manage System\TrainSchedule API\TrainSchedule\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\ICBT SE\Train Schedule and Seat Booking Manage System\TrainSchedule API\TrainSchedule\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+E:\ICBT SE\Train Schedule and Seat Booking Manage System\TrainSchedule API\TrainSchedule\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+E:\ICBT SE\Train Schedule and Seat Booking Manage System\TrainSchedule API\TrainSchedule\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\ICBT SE\Train Schedule and Seat Booking Manage System\TrainSchedule API\TrainSchedule\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+E:\ICBT SE\Train Schedule and Seat Booking Manage System\TrainSchedule API\TrainSchedule\bin\Debug\net8.0\Microsoft.OpenApi.dll
+E:\ICBT SE\Train Schedule and Seat Booking Manage System\TrainSchedule API\TrainSchedule\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+E:\ICBT SE\Train Schedule and Seat Booking Manage System\TrainSchedule API\TrainSchedule\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+E:\ICBT SE\Train Schedule and Seat Booking Manage System\TrainSchedule API\TrainSchedule\bin\Debug\net8.0\Mono.TextTemplating.dll
+E:\ICBT SE\Train Schedule and Seat Booking Manage System\TrainSchedule API\TrainSchedule\bin\Debug\net8.0\Newtonsoft.Json.dll
+E:\ICBT SE\Train Schedule and Seat Booking Manage System\TrainSchedule API\TrainSchedule\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\ICBT SE\Train Schedule and Seat Booking Manage System\TrainSchedule API\TrainSchedule\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\ICBT SE\Train Schedule and Seat Booking Manage System\TrainSchedule API\TrainSchedule\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\ICBT SE\Train Schedule and Seat Booking Manage System\TrainSchedule API\TrainSchedule\bin\Debug\net8.0\System.CodeDom.dll
+E:\ICBT SE\Train Schedule and Seat Booking Manage System\TrainSchedule API\TrainSchedule\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+E:\ICBT SE\Train Schedule and Seat Booking Manage System\TrainSchedule API\TrainSchedule\bin\Debug\net8.0\System.Composition.Convention.dll
+E:\ICBT SE\Train Schedule and Seat Booking Manage System\TrainSchedule API\TrainSchedule\bin\Debug\net8.0\System.Composition.Hosting.dll
+E:\ICBT SE\Train Schedule and Seat Booking Manage System\TrainSchedule API\TrainSchedule\bin\Debug\net8.0\System.Composition.Runtime.dll
+E:\ICBT SE\Train Schedule and Seat Booking Manage System\TrainSchedule API\TrainSchedule\bin\Debug\net8.0\System.Composition.TypedParts.dll
+E:\ICBT SE\Train Schedule and Seat Booking Manage System\TrainSchedule API\TrainSchedule\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+E:\ICBT SE\Train Schedule and Seat Booking Manage System\TrainSchedule API\TrainSchedule\bin\Debug\net8.0\System.Drawing.Common.dll
+E:\ICBT SE\Train Schedule and Seat Booking Manage System\TrainSchedule API\TrainSchedule\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+E:\ICBT SE\Train Schedule and Seat Booking Manage System\TrainSchedule API\TrainSchedule\bin\Debug\net8.0\System.Memory.Data.dll
+E:\ICBT SE\Train Schedule and Seat Booking Manage System\TrainSchedule API\TrainSchedule\bin\Debug\net8.0\System.Runtime.Caching.dll
+E:\ICBT SE\Train Schedule and Seat Booking Manage System\TrainSchedule API\TrainSchedule\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+E:\ICBT SE\Train Schedule and Seat Booking Manage System\TrainSchedule API\TrainSchedule\bin\Debug\net8.0\System.Security.Permissions.dll
+E:\ICBT SE\Train Schedule and Seat Booking Manage System\TrainSchedule API\TrainSchedule\bin\Debug\net8.0\System.Windows.Extensions.dll
+E:\ICBT SE\Train Schedule and Seat Booking Manage System\TrainSchedule API\TrainSchedule\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\ICBT SE\Train Schedule and Seat Booking Manage System\TrainSchedule API\TrainSchedule\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\ICBT SE\Train Schedule and Seat Booking Manage System\TrainSchedule API\TrainSchedule\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\ICBT SE\Train Schedule and Seat Booking Manage System\TrainSchedule API\TrainSchedule\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\ICBT SE\Train Schedule and Seat Booking Manage System\TrainSchedule API\TrainSchedule\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\ICBT SE\Train Schedule and Seat Booking Manage System\TrainSchedule API\TrainSchedule\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\ICBT SE\Train Schedule and Seat Booking Manage System\TrainSchedule API\TrainSchedule\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\ICBT SE\Train Schedule and Seat Booking Manage System\TrainSchedule API\TrainSchedule\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\ICBT SE\Train Schedule and Seat Booking Manage System\TrainSchedule API\TrainSchedule\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\ICBT SE\Train Schedule and Seat Booking Manage System\TrainSchedule API\TrainSchedule\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\ICBT SE\Train Schedule and Seat Booking Manage System\TrainSchedule API\TrainSchedule\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\ICBT SE\Train Schedule and Seat Booking Manage System\TrainSchedule API\TrainSchedule\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\ICBT SE\Train Schedule and Seat Booking Manage System\TrainSchedule API\TrainSchedule\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\ICBT SE\Train Schedule and Seat Booking Manage System\TrainSchedule API\TrainSchedule\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ICBT SE\Train Schedule and Seat Booking Manage System\TrainSchedule API\TrainSchedule\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ICBT SE\Train Schedule and Seat Booking Manage System\TrainSchedule API\TrainSchedule\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ICBT SE\Train Schedule and Seat Booking Manage System\TrainSchedule API\TrainSchedule\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ICBT SE\Train Schedule and Seat Booking Manage System\TrainSchedule API\TrainSchedule\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ICBT SE\Train Schedule and Seat Booking Manage System\TrainSchedule API\TrainSchedule\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ICBT SE\Train Schedule and Seat Booking Manage System\TrainSchedule API\TrainSchedule\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ICBT SE\Train Schedule and Seat Booking Manage System\TrainSchedule API\TrainSchedule\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ICBT SE\Train Schedule and Seat Booking Manage System\TrainSchedule API\TrainSchedule\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ICBT SE\Train Schedule and Seat Booking Manage System\TrainSchedule API\TrainSchedule\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ICBT SE\Train Schedule and Seat Booking Manage System\TrainSchedule API\TrainSchedule\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ICBT SE\Train Schedule and Seat Booking Manage System\TrainSchedule API\TrainSchedule\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ICBT SE\Train Schedule and Seat Booking Manage System\TrainSchedule API\TrainSchedule\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ICBT SE\Train Schedule and Seat Booking Manage System\TrainSchedule API\TrainSchedule\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ICBT SE\Train Schedule and Seat Booking Manage System\TrainSchedule API\TrainSchedule\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ICBT SE\Train Schedule and Seat Booking Manage System\TrainSchedule API\TrainSchedule\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ICBT SE\Train Schedule and Seat Booking Manage System\TrainSchedule API\TrainSchedule\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ICBT SE\Train Schedule and Seat Booking Manage System\TrainSchedule API\TrainSchedule\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ICBT SE\Train Schedule and Seat Booking Manage System\TrainSchedule API\TrainSchedule\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ICBT SE\Train Schedule and Seat Booking Manage System\TrainSchedule API\TrainSchedule\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ICBT SE\Train Schedule and Seat Booking Manage System\TrainSchedule API\TrainSchedule\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ICBT SE\Train Schedule and Seat Booking Manage System\TrainSchedule API\TrainSchedule\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ICBT SE\Train Schedule and Seat Booking Manage System\TrainSchedule API\TrainSchedule\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ICBT SE\Train Schedule and Seat Booking Manage System\TrainSchedule API\TrainSchedule\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ICBT SE\Train Schedule and Seat Booking Manage System\TrainSchedule API\TrainSchedule\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ICBT SE\Train Schedule and Seat Booking Manage System\TrainSchedule API\TrainSchedule\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ICBT SE\Train Schedule and Seat Booking Manage System\TrainSchedule API\TrainSchedule\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ICBT SE\Train Schedule and Seat Booking Manage System\TrainSchedule API\TrainSchedule\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ICBT SE\Train Schedule and Seat Booking Manage System\TrainSchedule API\TrainSchedule\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ICBT SE\Train Schedule and Seat Booking Manage System\TrainSchedule API\TrainSchedule\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ICBT SE\Train Schedule and Seat Booking Manage System\TrainSchedule API\TrainSchedule\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ICBT SE\Train Schedule and Seat Booking Manage System\TrainSchedule API\TrainSchedule\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ICBT SE\Train Schedule and Seat Booking Manage System\TrainSchedule API\TrainSchedule\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ICBT SE\Train Schedule and Seat Booking Manage System\TrainSchedule API\TrainSchedule\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ICBT SE\Train Schedule and Seat Booking Manage System\TrainSchedule API\TrainSchedule\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ICBT SE\Train Schedule and Seat Booking Manage System\TrainSchedule API\TrainSchedule\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ICBT SE\Train Schedule and Seat Booking Manage System\TrainSchedule API\TrainSchedule\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ICBT SE\Train Schedule and Seat Booking Manage System\TrainSchedule API\TrainSchedule\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ICBT SE\Train Schedule and Seat Booking Manage System\TrainSchedule API\TrainSchedule\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ICBT SE\Train Schedule and Seat Booking Manage System\TrainSchedule API\TrainSchedule\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\ICBT SE\Train Schedule and Seat Booking Manage System\TrainSchedule API\TrainSchedule\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\ICBT SE\Train Schedule and Seat Booking Manage System\TrainSchedule API\TrainSchedule\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ICBT SE\Train Schedule and Seat Booking Manage System\TrainSchedule API\TrainSchedule\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ICBT SE\Train Schedule and Seat Booking Manage System\TrainSchedule API\TrainSchedule\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ICBT SE\Train Schedule and Seat Booking Manage System\TrainSchedule API\TrainSchedule\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ICBT SE\Train Schedule and Seat Booking Manage System\TrainSchedule API\TrainSchedule\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\ICBT SE\Train Schedule and Seat Booking Manage System\TrainSchedule API\TrainSchedule\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\ICBT SE\Train Schedule and Seat Booking Manage System\TrainSchedule API\TrainSchedule\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\ICBT SE\Train Schedule and Seat Booking Manage System\TrainSchedule API\TrainSchedule\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\ICBT SE\Train Schedule and Seat Booking Manage System\TrainSchedule API\TrainSchedule\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\ICBT SE\Train Schedule and Seat Booking Manage System\TrainSchedule API\TrainSchedule\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\ICBT SE\Train Schedule and Seat Booking Manage System\TrainSchedule API\TrainSchedule\obj\Debug\net8.0\TrainSchedule.csproj.AssemblyReference.cache
+E:\ICBT SE\Train Schedule and Seat Booking Manage System\TrainSchedule API\TrainSchedule\obj\Debug\net8.0\TrainSchedule.GeneratedMSBuildEditorConfig.editorconfig
+E:\ICBT SE\Train Schedule and Seat Booking Manage System\TrainSchedule API\TrainSchedule\obj\Debug\net8.0\TrainSchedule.AssemblyInfoInputs.cache
+E:\ICBT SE\Train Schedule and Seat Booking Manage System\TrainSchedule API\TrainSchedule\obj\Debug\net8.0\TrainSchedule.AssemblyInfo.cs
+E:\ICBT SE\Train Schedule and Seat Booking Manage System\TrainSchedule API\TrainSchedule\obj\Debug\net8.0\TrainSchedule.csproj.CoreCompileInputs.cache
+E:\ICBT SE\Train Schedule and Seat Booking Manage System\TrainSchedule API\TrainSchedule\obj\Debug\net8.0\TrainSchedule.MvcApplicationPartsAssemblyInfo.cs
+E:\ICBT SE\Train Schedule and Seat Booking Manage System\TrainSchedule API\TrainSchedule\obj\Debug\net8.0\TrainSchedule.MvcApplicationPartsAssemblyInfo.cache
+E:\ICBT SE\Train Schedule and Seat Booking Manage System\TrainSchedule API\TrainSchedule\obj\Debug\net8.0\staticwebassets.build.json
+E:\ICBT SE\Train Schedule and Seat Booking Manage System\TrainSchedule API\TrainSchedule\obj\Debug\net8.0\staticwebassets.development.json
+E:\ICBT SE\Train Schedule and Seat Booking Manage System\TrainSchedule API\TrainSchedule\obj\Debug\net8.0\staticwebassets\msbuild.TrainSchedule.Microsoft.AspNetCore.StaticWebAssets.props
+E:\ICBT SE\Train Schedule and Seat Booking Manage System\TrainSchedule API\TrainSchedule\obj\Debug\net8.0\staticwebassets\msbuild.build.TrainSchedule.props
+E:\ICBT SE\Train Schedule and Seat Booking Manage System\TrainSchedule API\TrainSchedule\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.TrainSchedule.props
+E:\ICBT SE\Train Schedule and Seat Booking Manage System\TrainSchedule API\TrainSchedule\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.TrainSchedule.props
+E:\ICBT SE\Train Schedule and Seat Booking Manage System\TrainSchedule API\TrainSchedule\obj\Debug\net8.0\staticwebassets.pack.json
+E:\ICBT SE\Train Schedule and Seat Booking Manage System\TrainSchedule API\TrainSchedule\obj\Debug\net8.0\scopedcss\bundle\TrainSchedule.styles.css
+E:\ICBT SE\Train Schedule and Seat Booking Manage System\TrainSchedule API\TrainSchedule\obj\Debug\net8.0\TrainSch.9A607375.Up2Date
+E:\ICBT SE\Train Schedule and Seat Booking Manage System\TrainSchedule API\TrainSchedule\obj\Debug\net8.0\TrainSchedule.dll
+E:\ICBT SE\Train Schedule and Seat Booking Manage System\TrainSchedule API\TrainSchedule\obj\Debug\net8.0\refint\TrainSchedule.dll
+E:\ICBT SE\Train Schedule and Seat Booking Manage System\TrainSchedule API\TrainSchedule\obj\Debug\net8.0\TrainSchedule.pdb
+E:\ICBT SE\Train Schedule and Seat Booking Manage System\TrainSchedule API\TrainSchedule\obj\Debug\net8.0\TrainSchedule.genruntimeconfig.cache
+E:\ICBT SE\Train Schedule and Seat Booking Manage System\TrainSchedule API\TrainSchedule\obj\Debug\net8.0\ref\TrainSchedule.dll

@@ -1,0 +1,103 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\ICBT SE\\Train Schedule and Seat Booking Manage System\\Railway Head Office\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{13A4B169-055F-4B55-BD1F-7414AF141D30}|TrainAdmin\\TrainAdmin.csproj|e:\\icbt se\\train schedule and seat booking manage system\\railway head office\\trainadmin\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{13A4B169-055F-4B55-BD1F-7414AF141D30}|TrainAdmin\\TrainAdmin.csproj|solutionrelative:trainadmin\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13A4B169-055F-4B55-BD1F-7414AF141D30}|TrainAdmin\\TrainAdmin.csproj|E:\\ICBT SE\\Train Schedule and Seat Booking Manage System\\Railway Head Office\\trainadmin\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13A4B169-055F-4B55-BD1F-7414AF141D30}|TrainAdmin\\TrainAdmin.csproj|solutionrelative:trainadmin\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13A4B169-055F-4B55-BD1F-7414AF141D30}|TrainAdmin\\TrainAdmin.csproj|E:\\ICBT SE\\Train Schedule and Seat Booking Manage System\\Railway Head Office\\trainadmin\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13A4B169-055F-4B55-BD1F-7414AF141D30}|TrainAdmin\\TrainAdmin.csproj|solutionrelative:trainadmin\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13A4B169-055F-4B55-BD1F-7414AF141D30}|TrainAdmin\\TrainAdmin.csproj|E:\\ICBT SE\\Train Schedule and Seat Booking Manage System\\Railway Head Office\\trainadmin\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13A4B169-055F-4B55-BD1F-7414AF141D30}|TrainAdmin\\TrainAdmin.csproj|solutionrelative:trainadmin\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13A4B169-055F-4B55-BD1F-7414AF141D30}|TrainAdmin\\TrainAdmin.csproj|E:\\ICBT SE\\Train Schedule and Seat Booking Manage System\\Railway Head Office\\trainadmin\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{13A4B169-055F-4B55-BD1F-7414AF141D30}|TrainAdmin\\TrainAdmin.csproj|solutionrelative:trainadmin\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "E:\\ICBT SE\\Train Schedule and Seat Booking Manage System\\Railway Head Office\\TrainAdmin\\Form2.cs",
+              "RelativeDocumentMoniker": "TrainAdmin\\Form2.cs",
+              "ToolTip": "E:\\ICBT SE\\Train Schedule and Seat Booking Manage System\\Railway Head Office\\TrainAdmin\\Form2.cs",
+              "RelativeToolTip": "TrainAdmin\\Form2.cs",
+              "ViewState": "AQIAAGAAAAAAAAAAAAAowAMAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T22:36:36.22Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\ICBT SE\\Train Schedule and Seat Booking Manage System\\Railway Head Office\\TrainAdmin\\Program.cs",
+              "RelativeDocumentMoniker": "TrainAdmin\\Program.cs",
+              "ToolTip": "E:\\ICBT SE\\Train Schedule and Seat Booking Manage System\\Railway Head Office\\TrainAdmin\\Program.cs",
+              "RelativeToolTip": "TrainAdmin\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-30T16:44:50.523Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form2.cs [Design]",
+              "DocumentMoniker": "E:\\ICBT SE\\Train Schedule and Seat Booking Manage System\\Railway Head Office\\TrainAdmin\\Form2.cs",
+              "RelativeDocumentMoniker": "TrainAdmin\\Form2.cs",
+              "ToolTip": "E:\\ICBT SE\\Train Schedule and Seat Booking Manage System\\Railway Head Office\\TrainAdmin\\Form2.cs [Design]",
+              "RelativeToolTip": "TrainAdmin\\Form2.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T22:35:42.808Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "E:\\ICBT SE\\Train Schedule and Seat Booking Manage System\\Railway Head Office\\TrainAdmin\\Form1.cs",
+              "RelativeDocumentMoniker": "TrainAdmin\\Form1.cs",
+              "ToolTip": "E:\\ICBT SE\\Train Schedule and Seat Booking Manage System\\Railway Head Office\\TrainAdmin\\Form1.cs",
+              "RelativeToolTip": "TrainAdmin\\Form1.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABkAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T22:33:36.258Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "E:\\ICBT SE\\Train Schedule and Seat Booking Manage System\\Railway Head Office\\TrainAdmin\\Form1.cs",
+              "RelativeDocumentMoniker": "TrainAdmin\\Form1.cs",
+              "ToolTip": "E:\\ICBT SE\\Train Schedule and Seat Booking Manage System\\Railway Head Office\\TrainAdmin\\Form1.cs [Design]",
+              "RelativeToolTip": "TrainAdmin\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T22:32:12.448Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Train User</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+    <div class="container">
+        <h1>Train User</h1>
+        <div class="form">
+            <label for="startLocation">Start Location:</label>
+            <input type="text" id="startLocation">
+            <label for="endLocation">End Location:</label>
+            <input type="text" id="endLocation">
+            <label for="date">Date:</label>
+            <input type="date" id="date">
+            <button id="searchBtn">Search</button>
+        </div>
+        <div id="trainList"></div>
+    </div>
+
+    <div class="container">
+        <h1>Selected Train</h1>
+        <table id="userDataTable" class="selectedTrainTable">
+            <tr>
+                <th>User Name</th>
+                <th>NIC</th>
+                <th>Seat Number</th>
+                <th>Box Number</th>
+                <th>Train ID</th>
+                <th>Train Name</th>
+                <th>Time</th>
+                <th>Date</th>
+                <th>Start Location</th>
+                <th>End Location</th>
+                <th>Box</th>
+                <th>Booking</th> 
+            </tr>
+        </table>
+        <div id="panel2" class="panel">
+            <div class="topic">Available Seats</div>
+            
+        </div>
+    </div>
+
+
+
+    <script src="script.js"></script>
+</body>
+
+</html>
